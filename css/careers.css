@@ -1,0 +1,408 @@
+.eparrow-up-bold-icon3,
+.iconamoonhome-bold4 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.eparrow-up-bold-icon3 {
+  width: 16px;
+  height: 16px;
+}
+.careers7 {
+  position: relative;
+  line-height: 125%;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 216px;
+  flex-shrink: 0;
+}
+.iconamoonhome-bold-parent2 {
+  width: 1200px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  color: var(--color-chocolate);
+}
+.news8 {
+  position: relative;
+  font-weight: 300;
+  color: var(--color-chocolate);
+}
+.recruiting-regulatory-affairs {
+  position: relative;
+  font-size: var(--font-size-21xl);
+  line-height: 100%;
+  text-transform: capitalize;
+  font-weight: 500;
+  display: inline-block;
+  width: 1208px;
+  height: 80px;
+  flex-shrink: 0;
+}
+.rdaug20233 {
+  position: relative;
+  font-weight: 300;
+}
+.news-parent5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+}
+.frame-child58 {
+  position: relative;
+  border-top: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 1201px;
+  height: 1px;
+}
+.frame-child59 {
+  position: relative;
+  width: 1200px;
+  height: 441px;
+  object-fit: cover;
+}
+.job-description {
+  margin: 0;
+}
+.responsible-for-legal {
+  margin-bottom: 0;
+}
+.responsible-for-legal-and-regu {
+  margin: 0;
+  padding-left: var(--padding-4xl);
+}
+.job-description-responsible-container {
+  position: relative;
+  font-size: var(--font-inherit);
+  font-weight: 300;
+  font-family: var(--font-inherit);
+  display: inline-block;
+  width: 1200px;
+}
+.frame-parent41 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  font-size: var(--paragraph-1-size);
+}
+.about-us5 {
+  position: relative;
+  line-height: 90%;
+  text-transform: capitalize;
+  font-weight: 500;
+}
+.icbaseline-outbond-icon12 {
+  position: relative;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.about-us-parent2,
+.projects-parent2 {
+  width: 368px;
+  height: 122px;
+  padding: 0 var(--padding-5xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.about-us-parent2 {
+  display: flex;
+  flex-direction: row;
+  background-image: url(../public/frame-125@3x.png);
+}
+.projects-parent2 {
+  background-image: url(../public/frame-127@3x.png);
+}
+.frame-parent42,
+.news-parent6,
+.projects-parent2 {
+  display: flex;
+  flex-direction: row;
+}
+.news-parent6 {
+  width: 368px;
+  height: 122px;
+  padding: 0 var(--padding-5xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  background-image: url(../public/frame-128@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.frame-parent42 {
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-29xl);
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+}
+.frame-child60 {
+  position: relative;
+  width: 68px;
+  height: 60.29px;
+}
+.about6 {
+  position: absolute;
+  top: 4px;
+  left: 29px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.frame-child61 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 104px;
+  height: 32px;
+}
+.about-parent4 {
+  position: relative;
+  width: 104px;
+  height: 32px;
+}
+.careers8,
+.contact6,
+.investors6,
+.projects11 {
+  position: absolute;
+  top: 4px;
+  left: 30px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.careers8,
+.contact6,
+.investors6 {
+  left: 19px;
+}
+.careers8,
+.contact6 {
+  left: 6px;
+}
+.contact6 {
+  left: 24px;
+}
+.frame-child65 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 1px solid var(--color-chocolate);
+  box-sizing: border-box;
+  width: 104px;
+  height: 32px;
+}
+.frame-parent43,
+.group-parent5 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.frame-parent43 {
+  justify-content: flex-end;
+  gap: var(--gap-base);
+}
+.group-parent5 {
+  width: 1200px;
+  height: 88px;
+  padding: var(--padding-sm) 0;
+  box-sizing: border-box;
+  justify-content: space-between;
+}
+.thanh-long-group11 {
+  position: relative;
+  font-size: var(--font-size-base);
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.dinh-du-dinh6 {
+  position: relative;
+  line-height: 125%;
+  display: inline-block;
+  width: 271px;
+}
+.contact-84-32137853886 {
+  position: relative;
+  letter-spacing: 0.1em;
+  line-height: 125%;
+}
+.thanh-long-group-jsc-parent4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  font-size: var(--font-size-sm);
+}
+.quick-links6 {
+  position: relative;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.press-releases6 {
+  position: relative;
+  line-height: 125%;
+  display: inline-block;
+  width: 160px;
+  height: 18px;
+  flex-shrink: 0;
+}
+.press-releases-parent4,
+.quick-links-parent4 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.press-releases-parent4 {
+  width: 336px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-base);
+  font-size: var(--font-size-sm);
+}
+.quick-links-parent4 {
+  flex-direction: column;
+  gap: var(--gap-5xs);
+}
+.enter-email-address6 {
+  position: relative;
+  text-transform: uppercase;
+  font-weight: 300;
+}
+.enter-email-address-wrapper4 {
+  background-color: var(--color-whitesmoke-200);
+  width: 393px;
+  height: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-9xs) var(--padding-5xs);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.submit6 {
+  position: absolute;
+  top: 4px;
+  left: 26px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.submit-parent4 {
+  position: relative;
+  width: 104px;
+  height: 32px;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray);
+}
+.frame-parent44,
+.frame-parent45,
+.typcnsocial-linkedin-parent4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.frame-parent45 {
+  align-items: flex-start;
+  font-size: var(--font-size-3xs);
+  color: var(--gray-3);
+}
+.frame-parent44,
+.typcnsocial-linkedin-parent4 {
+  align-items: center;
+}
+.frame-parent44 {
+  width: 1200px;
+  align-items: flex-start;
+  gap: var(--gap-21xl);
+  text-align: left;
+}
+.footer6,
+.frame-parent40 {
+  width: 1344px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer6 {
+  background-color: var(--color-white);
+  padding: var(--padding-21xl) 0;
+  gap: var(--gap-base);
+  text-align: center;
+  font-size: var(--font-size-base);
+}
+.frame-parent40 {
+  position: absolute;
+  top: 0;
+  left: 96px;
+  overflow-y: auto;
+  padding: var(--padding-45xl) 0;
+  gap: var(--gap-45xl);
+}
+.instance-child1 {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 64px;
+  height: 64px;
+}
+.i6 {
+  position: relative;
+  font-weight: 100;
+}
+.vn-parent4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.ellipse-parent3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 96px;
+  height: 900px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-45xl) 0;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: space-between;
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.careers6 {
+  position: relative;
+  background-color: var(--color-whitesmoke-200);
+  width: 100%;
+  height: 1947px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+  font-family: var(--paragraph-1);
+}

@@ -1,0 +1,155 @@
+.home4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-transform: uppercase;
+  font-weight: 500;
+  cursor: pointer;
+}
+.home3 {
+  position: relative;
+  width: 280px;
+  height: 21px;
+}
+.home6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.home7 {
+  position: relative;
+  width: 280px;
+  height: 21px;
+  color: var(--color-chocolate);
+}
+.careers17 {
+  position: relative;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.careers-parent13,
+.home-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.careers-parent13 {
+  gap: var(--gap-base);
+  font-size: var(--font-size-xl);
+}
+.home-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  gap: var(--gap-13xl);
+}
+.frame-child159 {
+  position: absolute;
+  top: 125.5px;
+  left: 290.5px;
+  border-top: 1px solid var(--gray-4);
+  box-sizing: border-box;
+  width: 73px;
+  height: 1px;
+}
+.projects-type-01 {
+  position: relative;
+  text-transform: capitalize;
+  font-weight: 300;
+  cursor: pointer;
+}
+.projects-type-01-parent {
+  position: absolute;
+  top: 112px;
+  left: 387px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+  font-size: var(--font-size-xl);
+}
+.frame-parent97 {
+  position: absolute;
+  top: calc(50% - 153px);
+  left: 168px;
+  width: 583px;
+  height: 307px;
+}
+.vertical-menu-focus-child {
+  position: absolute;
+  height: 58.96%;
+  width: 52.78%;
+  top: 41.01%;
+  right: 5%;
+  bottom: 0.03%;
+  left: 42.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-child160 {
+  position: relative;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 64px;
+  height: 64px;
+}
+.makicross-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.en14,
+.i14,
+.vn14 {
+  position: relative;
+  font-weight: 300;
+}
+.en14,
+.i14 {
+  font-weight: 100;
+}
+.en14 {
+  font-weight: 300;
+  color: var(--color-darkslategray);
+}
+.vn-parent12 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-9xs);
+}
+.ellipse-parent16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-chocolate);
+  width: 96px;
+  height: 900px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-45xl) 0;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: space-between;
+  font-size: var(--font-size-base);
+  color: var(--color-whitesmoke-200);
+}
+.vertical-menu-focus {
+  
+  background-color: var(--color-whitesmoke-200);
+  width: 100%;
+  height: auto;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkslategray);
+  font-family: var(--paragraph-1);
+}
